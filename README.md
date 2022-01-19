@@ -1,7 +1,7 @@
 <img src="https://github.com/RockSonu/RockSonu/blob/main/undraw_New_year_2022_bxec.png" alt="NO" height="300" width="1000" align="center" />
-<h1 align="center">Hi 👋, I'm Beat_Box <img alt="np" src="/home/beat_box/Downloads/check-circle.gif" /></h1>
+<h1 align="center">Hi 👋, I'm Beat_Box</h1>
 <break></break>
-<h4 align="center">I'm 20 year noob dev interested to learn how to open Vscode</h4>
+<h3 align="center"><img alt="np" src="https://github.com/RockSonu/RockSonu/blob/main/check-circle.gif" height="20"/> I'm 20 year noob dev interested to learn how to open Vscode</h3>
 
 - 🔭 I’m currently working on **Android Dev**
 
