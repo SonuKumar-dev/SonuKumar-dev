@@ -1,3 +1,4 @@
+<img src="https://img.icons8.com/color/40/000000/launched-rocket--v2.png"/>
 <h1 align="center">Hi 👋, I'm Beat_Box</h1>
 <break></break>
 <h4 align="center">I'm 20 year noob dev interested to learn how to open Vscode</h4>
