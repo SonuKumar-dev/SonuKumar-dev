@@ -25,3 +25,9 @@ Languages and Tools:</h3>
 <p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=rocksonu&show_icons=true&locale=en" alt="rocksonu" />
 </p>
+<div align="center">
+  <img src="stat.gif" alt="Profile" width="400" height="200" />
+</div>
+<div align="center">
+  <img src="bot.gif" alt="Profile" width="400" height="100" />
+</div>
