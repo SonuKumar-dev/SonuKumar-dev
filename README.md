@@ -19,27 +19,7 @@
 <span><h3 align="left" ><img src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"/></span>
 Languages and Tools:</h3>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-
-![arduino](https://img.shields.io/badge/arduino-%2307405e.svg?style=for-the-badge&logo=arduino&logoColor=white) 
-
-![jupyter](https://img.shields.io/badge/jupyter-%14056405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Opencv](https://img.shields.io/badge/opencv-%23005C.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
-![GITHUB](https://img.shields.io/badge/Github-fc6d26?style=for-the-badge&logo=github&logoColor=white)
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-![MySQL](https://img.shields.io/badge/mysql-%23FF9900.svg?style=for-the-badge&logo=mysql&logoColor=black) 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![arduino](https://img.shields.io/badge/arduino-%2307405e.svg?style=for-the-badge&logo=arduino&logoColor=white)  ![jupyter](https://img.shields.io/badge/jupyter-%14056405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Opencv](https://img.shields.io/badge/opencv-%23005C.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![GITHUB](https://img.shields.io/badge/Github-fc6d26?style=for-the-badge&logo=github&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-%23FF9900.svg?style=for-the-badge&logo=mysql&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=rocksonu&show_icons=true&locale=en" alt="rocksonu" />
 </p>
