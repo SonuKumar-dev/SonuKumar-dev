@@ -13,17 +13,12 @@
 - 📫 How to reach me on telegram **@_Beat_Box_**
 
 <h3 align="left" ><img src="https://img.icons8.com/color/40/000000/launched-rocket--v2.png"/>Connect with me:</h3>
-<p  align="left">
-    <a href="https://linkedin.com/in/gg.alert(" beat_box ")" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="gg.alert(" beat_box ")" height="30" width="40" /></a>
-    <a href="https://instagram.com/beat._.box" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="beat._.box" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/beat_box" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beat_box" height="30"
-            width="40" /></a>
-</p>
+[![Discord](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor='')](https://t.me/beat_b0x)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/beat._.b0x/) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-9933bb200/) 
+
 <span><h3 align="left"><img src="https://img.icons8.com/color/40/000000/launched-rocket--v2.png"/></span>
 Languages and Tools:</h3>
 <div>
