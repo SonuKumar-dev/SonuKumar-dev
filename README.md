@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me on telegram **@_Beat_Box_**
+- 📫 How to reach me **@rocksonu12345@gmail.com**
 
 <h3 align="left" ><img src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"/>Connect with me:</h3>
 
