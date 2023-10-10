@@ -13,7 +13,7 @@
 - 📫 How to reach me on telegram **@_Beat_Box_**
 
 <h3 align="left" ><img src="https://img.icons8.com/color/40/000000/launched-rocket--v2.png"/>Connect with me:</h3>
-[![Discord](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor='')](https://t.me/beat_b0x)
+[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram)](https://t.me/beat_b0x)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/beat._.b0x/) 
 
