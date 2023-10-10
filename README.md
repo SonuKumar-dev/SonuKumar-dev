@@ -1,4 +1,7 @@
-![Profile](top.gif)
+<div align="center">
+  <img src="top.gif" alt="Profile" width="400" height="400" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Beat_Box</h1>
 <break></break>
 <h3 align="center"><img alt="np" src="https://github.com/RockSonu/RockSonu/blob/main/check-circle.gif" height="20"/> I'm 21 year noob dev interested to learn how to open Vscode</h3>
