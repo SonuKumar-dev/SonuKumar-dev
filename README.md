@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **@rocksonu12345@gmail.com**
+- 📫 How to reach me **@work1.sonukumar@gmail.com**
 
 <h3 align="left" ><img src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"/>Connect with me:</h3>
 
@@ -23,7 +23,7 @@ Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![GITHUB](https://img.shields.io/badge/Github-fc6d26?style=for-the-badge&logo=github&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-%23FF9900.svg?style=for-the-badge&logo=mysql&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rocksonu&show_icons=true&locale=en" alt="rocksonu" />
+        src="https://github-readme-stats.vercel.app/api?username=SonuKumar-dev&show_icons=true&locale=en" alt="SonuKumar-dev" />
 </p>
 <div align="center">
   <img src="bot.gif" alt="Bye"/>
