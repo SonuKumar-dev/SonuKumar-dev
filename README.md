@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar </h1>
 <break></break>
-<h3 align="center"><img alt="np" src="https://github.com/RockSonu/RockSonu/blob/main/check-circle.gif" height="20"/> I'm 21 year noob dev interested to learn how to open Vscode</h3>
+<h3 align="center"><img alt="np" src="https://github.com/RockSonu/RockSonu/blob/main/check-circle.gif" height="20"/> I'm 22 year noob dev interested to learn how to open Vscode</h3>
 
 - 🔭 I’m currently working on **Android Dev**
 
