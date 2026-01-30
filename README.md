@@ -6,35 +6,37 @@
 
 ### 💎 C# / .NET Developer building secure, real-world applications
 
-<p>
-  <b>Currently building:</b> FaceFortify 🔐 <br/>
-  Secure folder locking with face recognition
-</p>
+<b>🔐 Main Project:</b> FaceFortify  
+Secure folder locking with face recognition
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project – FaceFortify
 
 <div align="center">
 
-### 🔐 FaceFortify  
-**A secure folder locking desktop app using face recognition**
+A desktop security app that locks folders and unlocks them using your face.
 
 ✔ One-time face registration  
 ✔ Face verification on every unlock  
-✔ Custom authentication logic (no external identity system)
+✔ Re-register face only after successful verification  
+✔ Custom authentication logic without ASP.NET Identity  
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🧭 Developer Roadmap
 
-- ASP.NET Core & Web APIs  
-- SQL & Database Design  
-- Building full-stack secure systems in C#
+- [x] C# fundamentals  
+- [x] Desktop app development in .NET  
+- [x] Basic SQL and database usage  
+- [ ] Advanced SQL & T-SQL  
+- [ ] ASP.NET Core Web API  
+- [ ] Full-stack secure web applications  
+- [ ] Cloud deployment (Azure / Linux servers)
 
 ---
 
@@ -68,14 +70,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Enjoy Building
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SonuKumar-dev&show_icons=true&theme=default" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar-dev&layout=compact" height="160"/>
-
-</div>
+- Secure desktop tools in C#
+- Backend systems and Web APIs
+- Authentication and access control features
+- Real-world utility apps (like FaceFortify and parcel/management systems)
 
 ---
 
@@ -85,7 +85,7 @@
   <a href="https://t.me/beat_b0x">
     <img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/beat._.b0x/">
+  <a href="https://www.instagram.com/sonukumar_io/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sonu-kumar-9933bb200/">
