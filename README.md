@@ -2,29 +2,48 @@
   <img src="top.gif" alt="Profile" width="400" height="400" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Sonu Kumar </h1>
-<break></break>
-<h3 align="center"><img alt="np" src="https://github.com/RockSonu/RockSonu/blob/main/check-circle.gif" height="20"/> I'm 24 year noob dev interested to learn how to open Vscode</h3>
+<h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 
-- 🔭 I’m currently working on **Android Dev**
+<h3 align="center">
+  Aspiring developer passionate about C#, .NET and building secure, real-world applications
+</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on **FaceFortify – a secure folder locking app with face recognition**
 
-- 📫 How to reach me **@work1.sonukumar@gmail.com**
+- 🌱 I’m currently learning **ASP.NET Core, Web APIs, and SQL**
 
-<h3 align="left" ><img src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"/>Connect with me:</h3>
+- 💻 I enjoy building **desktop and backend systems with C#**
 
-[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/beat_b0x)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/beat._.b0x/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-9933bb200/) 
+- 📫 How to reach me: **work1.sonukumar@gmail.com**
 
-<span><h3 align="left" ><img src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"/></span>
-Languages and Tools:</h3>
+<h3 align="left">🚀 Connect with me:</h3>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![arduino](https://img.shields.io/badge/arduino-%2307405e.svg?style=for-the-badge&logo=arduino&logoColor=white)  ![jupyter](https://img.shields.io/badge/jupyter-%14056405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Opencv](https://img.shields.io/badge/opencv-%23005C.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/beat_b0x)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/beat._.b0x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-9933bb200/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![GITHUB](https://img.shields.io/badge/Github-fc6d26?style=for-the-badge&logo=github&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-%23FF9900.svg?style=for-the-badge&logo=mysql&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=SonuKumar-dev&show_icons=true&locale=en" alt="SonuKumar-dev" />
+<h3 align="left">🛠 Languages and Tools:</h3>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api?username=SonuKumar-dev&show_icons=true&locale=en"
+       alt="SonuKumar-dev" />
 </p>
+
 <div align="center">
   <img src="bot.gif" alt="Bye"/>
 </div>
