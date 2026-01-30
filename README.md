@@ -6,14 +6,11 @@
 
 ### 💎 C# / .NET Developer building secure, real-world applications
 
-<b>🔐 Main Project:</b> FaceFortify  
-Secure folder locking with face recognition
-
 </div>
 
 ---
 
-## 🚀 Featured Project – FaceFortify
+## 🚀 Featured Project – 🔐 FaceFortify
 
 <div align="center">
 
