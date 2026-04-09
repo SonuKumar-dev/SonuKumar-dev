@@ -31,7 +31,7 @@ A desktop security app that locks folders and unlocks them using your face.
 - [x] Desktop app development in .NET  
 - [x] Basic SQL and database usage  
 - [ ] Advanced SQL & T-SQL  
-- [ ] ASP.NET Core Web API  
+- [x] ASP.NET Core Web API  
 - [ ] Full-stack secure web applications  
 - [ ] Cloud deployment (Azure / Linux servers)
 
