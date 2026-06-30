@@ -4,7 +4,9 @@
 
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/normal-badge/?username=SonuKumar-dev&color=00f2c8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/SonuKumar-dev">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SonuKumar-dev&title=Visitors" alt="Profile Views" />
+  </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sonu-kumar-9933bb200/">
@@ -21,13 +23,6 @@
     </a>
   </p>
 </div>
-
-<!-- GitHub Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SonuKumar-dev&theme=tokyonight&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -76,10 +71,10 @@ I am a backend-focused **.NET Core Developer** specializing in designing, buildi
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SonuKumar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="Sonu's GitHub Stats" height="195" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonuKumar-dev&theme=tokyonight" alt="Sonu's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar-dev&layout=compact&theme=tokyonight&hide_title=false" alt="Sonu's Top Languages" height="195" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonuKumar-dev&theme=tokyonight" alt="Sonu's Top Languages" />
       </td>
     </tr>
   </table>
